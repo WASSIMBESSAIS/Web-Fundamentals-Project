@@ -1,0 +1,25 @@
+1/How does the web work?
+the web or the world wide web(www) is a collection of information that is accessed via the Internet.
+It is the point that connects us to the Internet.
+for example:the internet is like the infrastructure and the web is the building that comes on top of that infrastructure.
+
+
+2/What do you need to be a web developer?
+all you need to be a web devloper is :
+1.learn the basics you gotta understand HTML and CSS for creating web pages.
+2.know a programming languag like learning javascript for making websites interactive.
+3.use tools like code editors and web browsers for your work.
+4.build a portfolio, you gotta Create projects to show your skills to potential employers.
+5.you have to stay updated with new web development trends and technologies.
+6.you need to get experience, to make it done you have to try freelance work, personal projects to gain practical knowledge.
+that's was the basic idea to be a web devloper
+
+
+3/Why did you choose to learn web development?
+actually i choose it because nowadays everything needs the websites.
+there is a lot of ways to make money from it.
+i'm kinda attracted to it.
+it's give me the oportunity to be a freelancer.
+because i can make my own projects my own websites.
+gotta be creative and solve a lot of problmes wich can make me satisfied.
+it plays a big role to make the future better and easier.
